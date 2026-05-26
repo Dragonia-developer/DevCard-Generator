@@ -14,7 +14,7 @@
 </p>
 
 <!-- Add a screenshot after your first run: save as public/screenshot.png -->
-![DevCard Generator Screenshot](https://i.ibb.co/abc123/devcard.png)
+<a href="https://ibb.co/Cxg9rxf"><img src="https://i.ibb.co/66ztd6k/image.png" alt="image" border="0"></a>
 
 ---
 
