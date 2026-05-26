@@ -14,7 +14,24 @@
 </p>
 
 <!-- Add a screenshot after your first run: save as public/screenshot.png -->
-<a href="https://ibb.co/Cxg9rxf"><img src="https://i.ibb.co/66ztd6k/image.png" alt="image" border="0"></a>
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://dev-card-generator-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Try%20Live%20Demo-DevCard%20Generator-blue?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dev-card-generator-pi.vercel.app/">
+    <img src="https://i.ibb.co/66ztd6k/image.png" alt="DevCard Generator Screenshot" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Generate beautiful GitHub developer cards instantly.</strong><br>
+  Customize themes, export as PNG, and share your profile in style.
+</p>
 
 ---
 
