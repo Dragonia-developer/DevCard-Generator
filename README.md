@@ -132,7 +132,7 @@ Update the repository URL shown in the navbar:
 
 ```ts
 // lib/constants.ts
-export const GITHUB_REPO_URL = "https://github.com/YOUR_USERNAME/devcard-generator";
+export const GITHUB_REPO_URL = "https://github.com/Dragonia-developer/DevCard-Generator.git";
 ```
 
 ### 4. Add a screenshot (optional, for README)
