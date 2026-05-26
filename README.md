@@ -116,7 +116,7 @@ Before you begin, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/devcard-generator.git
+git clone https://github.com/Dragonia-developer/DevCard-Generator.git
 cd devcard-generator
 ```
 
