@@ -14,7 +14,7 @@
 </p>
 
 <!-- Add a screenshot after your first run: save as public/screenshot.png -->
-![DevCard Generator Screenshot](./public/screenshot.png)
+![DevCard Generator Screenshot](https://i.ibb.co/abc123/devcard.png)
 
 ---
 
